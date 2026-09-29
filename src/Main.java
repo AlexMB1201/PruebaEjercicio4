@@ -3,8 +3,5 @@ public class Main {
         System.out.println("Alejandro Montejano Bautista");
         System.out.println("samdisadadsad");
 
-
-
-
     }
 }
